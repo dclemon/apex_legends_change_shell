@@ -1,5 +1,5 @@
 # apex_legends_change_shell
-apex英雄一键换甲，基于python
+apex一键换甲，基于python
 
 按1获取当前鼠标坐标，把护甲可能出现的坐标填入下面数组即可。靠近死亡之箱按1左边的`键换甲。
 
